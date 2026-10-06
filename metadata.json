@@ -1,0 +1,6 @@
+{
+  "name": "EarthPulse",
+  "description": "NASA Space Apps Challenge 2026 platform helping people detect and understand long-term environmental trends through NASA Earth system data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
